@@ -74,9 +74,9 @@ repot  : [telegram](https://t.me/yuroshub)
 
 ## peraturan
 - Batas toleransi keterlambatan adalah 15 menit
-- Perizinan sakit yang berobat kedokter mendapatkan izin sesuai dengan surat istirahat dari dokter
-- Perizinan sakit yang dirawat secara mandiri harus melewati konfirasi dari wali atau oranga tua
-- Seluruh kegiatan diluar dari perkulihan yang bukan termasuk kegiatan perkuliahan harus melewatio konfirmasi dari wali atau orang tua
+- Perizinan sakit melewatii fasilitas kesehatan mendapatkan izin sesuai dengan surat istirahat dari dokter
+- Perizinan sakit yang dirawat secara mandiri harus melewati konfirmasi langsung dari wali atau oranga tua
+- Seluruh kegiatan diluar dari perkulihan yang bukan termasuk kegiatan perkuliahan harus melewati konfirmasi langsung dari wali atau orang tua
 - Batas tolerasi untuk ketidak hadiran terkait izin sebanyak 3 kali
 - Setiap bentuk keterlambatan dalam pengumpulan penugasan atau evaluasi dianggap tidak menggumpulkan.
 - Tidak ada perbaikan / remedial dalam setiap kegiatan yang termasuk kedalam  instrumen peniliaan

@@ -170,7 +170,11 @@ Sebagai contoh pengalaman internal dan terpersonalisasi yaitu ketika dunia dilan
 **Bab III**
 **Kesimpulan**
 
+Berdasarkan pembahasan yang telah diuraikan, dapat disimpulkan bahwa teknologi dalam kehidupan modern tidak lagi hanya berfungsi sebagai alat bantu, tetapi telah berkembang menjadi bagian dari sistem yang membentuk realitas itu sendiri. Dalam perspektif Simuclara and Simulation, teknologi mampu menciptakan simulasi yang melahirkan kondisi hiperrealitas, yaitu ketika batas antara realitas dan representasi menjadi kabur. Hal ini menyebabkan individu lebih banyak berinteraksi dengan hasil kontruksi teknologi dibandingkan dengan realitas langsung. 
 
+Substansi teknologi dalam sudut pandang hiperrealitas menunjukkan bahwa realitas tidak lagi bersumber dari pengalaman langsung, melainkan dari simulasi yang dihasilkan oleh media dan simulasi. Akibatnya, individu lebih banyak berinteraksi dengan representasi daripada kenyataan, sehingga realitas semu dapat menggantikan realitas asli. Hal ini terlihat dalam berbagai fenomena kehidupan, seperti pembentukan citra diri di media sosial, representasi tempat wisata, hingga panic buying pada masa COVID-19, dimana pengalaman internal seperti rasa takut, cemas dan urgensi terbentuk dari arus informasi digital yang bersifat terpesonalisasi, bukan dari kondisi nyata.
+
+Dengan demikian, perbedaan antara teknologi sebagai alat dan mitos terletak pada posisinya terhadap realitas, dimana teknologi sebagai alat bersifat membantu dan netral, sedangkan sebagai mitos bersifat konstruktif dan mampu menciptakan realitas yang dipercaya. Oleh karena itu, teknologi memiliki peran yang sangat besar dalam membentuk realitas subjektif manusia di era modern, sehingga diperlukan sikap kritis agar individu tidak mudah terjebak dalam simulasi dan realitas semu yang dihasilkan oleh teknologi.
 
 ## DAFTAR PUSTAKA 
 

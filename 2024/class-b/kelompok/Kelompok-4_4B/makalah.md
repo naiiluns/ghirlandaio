@@ -45,7 +45,9 @@ Kami menyadari bahwa makalah ini masih jauh dari kata sempurna dan terdapat keku
 # **BAB I** **PENDAHULUAN**
 
 
-**1.1 Latar Belakang**
+**1.1 Latar Belakang** 
+
+Perkembangan teknologi informasi telah memengaruhi perpustakaan dan arsip digital pada sistem penyimpanan, dari cara biasa menjadi berbasis digital. Perubahan tersebut tidak hanya memengaruhi bagaimana cara perpustakaan dan arsip dalam menyediakan layanan tetapi bagaimana masyarakat juga mengakses informasi yang fleksibel. Namun, hal itu dihadapi tantangan yang rumit terkait keamanan data dan privasi pengguna. Seiringnya dengan waktu perpustakaan dan arsip digital konsep cyberethics menjadi penting sebagai dasar dalam ruang digital. Analisis terhadap data historis membuktikan bahwa serangan siber seperti ransomware, peretasan dan pencurian identitas menyebabkan bagi instituisi informasi, ancaman seperti ini masuk melalui berbagai vektor dasar keamanan siber mulai dari perangkat lunak.
 
 **1.2 Rumusan Masalah**
 1. Bagaimana 5 evolusi hukum perpustakaan
@@ -76,7 +78,9 @@ Keamanan cyber memiliki prinsip dasar keamanan yang dapat diterapkan oleh perpus
 
 ## 2.4 ##
 
-## 2.5 ##
+## 2.5 Vektor dasar Keamanan Cyber bagi Perpustakaan atau Arsip digital ##
+
+Vektor pada dasar keamanan siber dalam perpustakaan atau arsip digital yang mengarah berbagai jalur yang digunakan untuk menyerang system informasi digital. Sebagian besar serangan tersebut dapat berupa phising, ransomware, dan kebocoran data (data leak) serangan ini vector yang paling umum digunakan dalam sistem arsip digital. Vector serangam juga berasal dari faktor manusia ( security awarences dan kepatuhan prosedur) sebagai titik rawan utama yaitu, kebiasaan kata sandi lemah, phishing susceptibility, dan keterlambatan pembaruan sistem. tidak adanya kontrol akses dan tidak prosedur operasional yang jelas membuat tidak optimal, sehingga terjadinya akses yang tidak sah dan membuat dimanfaatkan oleh pelaku serangan. Perpusakaan digital yang terhubung dengan jaringan eksternal seperti internet berpotensi menjadi target peretasan berbagai ancaman keamanan perpustakaan digital. Mulai dari aset fisik, seperti komputer server hingga ancaman dari software, network, dan bahkan elemen fisik dan manusia, ancaman yang mencakup seperti aset fisik, perpustakaan digital yang dapat mengalami masalah teknis sehingga mengganggu layanan. Masalah teknis berasal dari masalah peralatan komunikasi, masalah perangkat keras, atau bahkan instalasi perangkat keras yang tidak sah. Kemudian, serangan malware dan kode berbahaya merupakan bahaya yang signifikan bagi keamanan perpustakaan digital.  dalam hal software, bahwa perlindungan terhadap kata sandi adalah lapisan pertahanan utama yang diperlukan untuk melindungi akses ke data sensitif.  Serangan brute force, phishing, atau penyerangan jaringan adalah beberapa sumber ancaman keamanan kata sandi. Selain itu, kelemahan dalam perlindungan kata sandi perangkat lunak dapat memungkinkan orang yang tidak berwenang mengakses data sensitif atau merusak integritas data. Dalam hal jaringan, perpustakaan digital menghadapi ancaman seperti serangan e-mail, hacking, dan serangan DDoS. Serangan DDoS terutama dapat membuat layanan perpustakaan digital tidak dapat diakses oleh pengguna yang sah, menyebabkan kerugian keuangan dan reputasi. 
 
 ## 2.6 Faktor yang Harus Dikembangkan dan Ditingkatkan dalam Perpustakaan dan Arsip Digital ##
 

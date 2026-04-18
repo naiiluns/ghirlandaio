@@ -12,3 +12,6 @@ Dalam perpustakaan digital, penerapan hukum ini bisa dilihat dari bagaimana perp
 
 ## Kesimpulan
 Penerapan prinsip “Buku Untuk Digunakan” dalam perpustakaan digital mengisyaratkan bahwa perpustakaan wajib memastikan bahwa koleksi digital yang tersedia dapat diakses dengan baik oleh pengguna. Perpustakaan harus menyediakan kemudahan akses, sistem yang handal, fitur pencarian yang mudah dipahami, serta koleksi yang dapat diakses kapan saja dan di mana saja. Dengan demikian, perpustakaan digital dapat melaksanakan perannya sebagai penyedia informasi yang benar-benar berguna bagi masyarakat.
+
+## Daftar Pustaka
+Lancaster, F. W. (1993). Five laws of library science. If You Want to Evaluate Your Library, 11–19. https://en.wikipedia.org/wiki/Five_laws_of_library_science?oldid=748770334
